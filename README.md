@@ -36,6 +36,21 @@ Melanoma, a type of skin cancer, is highly treatable if detected early. However,
   - ImagePicker for user image selection
 - **Design**: Simple and intuitive UI to ensure accessibility.
 
+### Screenshots
+Below are screenshots showcasing the application:
+
+1. **App Home Screen**  
+   ![App Screenshot 1](screenshots/app_screenshot_1.png)
+
+2. **Image Upload Feature**  
+   ![App Screenshot 2](screenshots/app_screenshot_2.png)
+
+3. **Prediction Result Screen**  
+   ![App Screenshot 3](screenshots/app_screenshot_3.png)
+
+4. **Warning and Disclaimer**  
+   ![App Screenshot 4](screenshots/app_screenshot_4.png)
+
 ## Challenges
 - Sprint time estimation issues.
 - Resource exhaustion errors during model training.
@@ -64,6 +79,7 @@ This project demonstrates the effective use of machine learning in a real-world 
 This application is not a replacement for professional medical advice, diagnosis, or treatment. Users are strongly encouraged to consult a qualified healthcare provider for any concerns regarding their skin health.
 
 ---
+
 
 ## Author
 Tom Kelly 
