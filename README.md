@@ -39,17 +39,12 @@ Melanoma, a type of skin cancer, is highly treatable if detected early. However,
 ### Screenshots
 Below are screenshots showcasing the application:
 
-1. **App Home Screen**  
-   ![App Screenshot 1](screenshots/app_screenshot_1.png)
-
-2. **Image Upload Feature**  
-   ![App Screenshot 2](screenshots/app_screenshot_2.png)
-
-3. **Prediction Result Screen**  
-   ![App Screenshot 3](screenshots/app_screenshot_3.png)
-
-4. **Warning and Disclaimer**  
-   ![App Screenshot 4](screenshots/app_screenshot_4.png)
+<p align="center">
+  <img src="screenshots/app_screenshot_1.png" alt="App Screenshot 1" width="22%" />
+  <img src="screenshots/app_screenshot_2.png" alt="App Screenshot 2" width="22%" />
+  <img src="screenshots/app_screenshot_3.png" alt="App Screenshot 3" width="22%" />
+  <img src="screenshots/app_screenshot_4.png" alt="App Screenshot 4" width="22%" />
+</p>
 
 ## Challenges
 - Sprint time estimation issues.
